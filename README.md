@@ -19,7 +19,7 @@
 |-------|--------|------|
 | Noclip | Global Speed | Load/Save/Reset Config  |
 | God Mode | Skip Cutscene | FPS Indicator |
-| Damage Multiplier | Dumb enemies | Hide UIr |
+| Damage Multiplier | Dumb enemies | Hide UID |
 | Multi Hit |  | UID Changer | FOV Change |
 | Always Crit |  | Peeking |
 | Infinite Stamina | | Unload |
